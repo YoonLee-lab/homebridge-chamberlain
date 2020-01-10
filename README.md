@@ -1,17 +1,29 @@
-# homebridge-chamberlain
+# Homebridge-Chamberlain
+> Homebridge plugin for MyQ Garage Doors and Light Controllers
+<img src='DemoVideo' />
+
+[![npm](https://img.shields.io/npm/v/homebridge-chamberlain?style=for-the-badge)](https://www.npmjs.com/package/homebridge-chamberlain)
+[![npm](https://img.shields.io/npm/dt/homebridge-chamberlain?style=for-the-badge)](https://www.npmjs.com/package/homebridge-chamberlain)
 
 
+This plugin will allow you to control your MyQ garage door, and light controllers via HomeKit.
 
-![NPM](https://nodei.co/npm/homebridge-chamberlain.png?downloads=true&downloadRank=true&stars=true)
+## Installation
+Install homebridge ```Sudo Npm i -g HomeBridge```
 
-A Homebridge plugin for Chamberlain garage door openers with MyQ.
+Install this plugin ```Sudo Npm i -g HomeBridge-Chamberlain```
 
-
-
-# Installation
-1) Install HomeBridge  - ```sudo npm i -g homebridge --unsafe-perm```
-2) Install this plugin - ```sudo npm i -g homebridge-chamberlain```
-3) Add the [config parameters](https://github.com/caseywebdev/homebridge-chamberlain/blob/master/config-example.MD) to your [config file](https://github.com/nfarina/homebridge/blob/master/config-sample.json)
+Add the config parameters to your ```config.json``` file. (Add Link)
 
 
-If you experience any issues please see the [common issues](https://github.com/caseywebdev/homebridge-chamberlain/wiki/Common-Issues) page, before opening an issue.
+# Configuration
+```
+V2 Config.soon (Add)
+```
+
+
+# Issues and Contribution
+
+If you run into any issues, please be sure to check the common issues wiki, before opening an issue. (Add Link)
+
+Also if you wish to contribute, submit a PR and I'd be more than happy to merge it in.
